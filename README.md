@@ -2,7 +2,7 @@
 
 **Close the books, build the forecast, and control spend with precision.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-Six skills covering the core financial operations of any growing company, from month-end close to FP&A modeling. Designed for finance teams, controllers, and operators who need structured, opinionated guidance without the consulting overhead.
+The finance operating system for controllers and operators at a growing company: run a clean month-end close, build statements that tie out, explain every budget variance, forecast cash and runway, model the annual plan from real drivers, and enforce spend. Reach for it when you own the close calendar and the board deck and need structured, opinionated guidance without the consulting bill.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
@@ -20,8 +20,6 @@ Six skills covering the core financial operations of any growing company, from m
 - **[Cash Flow Forecast](skills/cash-flow-forecast/SKILL.md)** — Build a rolling cash-flow forecast and runway view to know how much cash the business has and when it runs out.
 - **[FP&A Operating Model](skills/fpa-model/SKILL.md)** — Build a driver-based FP&A operating model that ties business inputs to financial outputs.
 - **[Expense & Approval Policy](skills/expense-policy/SKILL.md)** — Write a clear, enforceable expense and approval policy that sets limits, approval chains, and reimbursement rules.
-- **[Unit Economics](skills/unit-economics/SKILL.md)** — Calculates and optimizes CAC, LTV, payback, and contribution margin.
-- **[Revenue Modeling](skills/revenue-modeling/SKILL.md)** — Builds SaaS revenue models: MRR, expansion, churn, and scenario forecasting.
 
 ## License
 
